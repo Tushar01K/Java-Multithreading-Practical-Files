@@ -1,1 +1,1 @@
-package multithreading;
+package MulTPractice;
